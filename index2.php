@@ -6,3 +6,10 @@
  * and open the template in the editor.
  */
 
+$suma=0;
+
+for ($i= 1; $i<=100; $i++) {
+    
+    $suma+=$i;
+    
+}echo "la suma de los numeros del 1-100 es :".$suma;
