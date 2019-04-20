@@ -27,7 +27,7 @@
              $factorial=$factorial*$i;
              
          }
-         echo "los fatoriales del numero son".$factorial;
+         echo "el factorial del numero son".$factorial;
          
          
          
